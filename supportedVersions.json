@@ -1,0 +1,59 @@
+{
+  "fabric": [
+    {
+      "version": "1.21.1",
+      "color": {
+        "r": 255,
+        "g": 220,
+        "b": 94,
+        "a": 255
+      },
+      "url": "/supportedVersions/fabric/1.21.1.json",
+      "sha1": "c942c33323734aed25e5995ee5d5e715ab6c46f2"
+    },
+    {
+      "version": "1.20.6",
+      "color": {
+        "r": 255,
+        "g": 220,
+        "b": 94,
+        "a": 255
+      },
+      "url": "/supportedVersions/fabric/1.20.6.json",
+      "sha1": "b84181bce90588d09f136e22e1633b016bbda124"
+    },
+    {
+      "version": "1.20.4",
+      "color": {
+        "r": 105,
+        "g": 255,
+        "b": 110,
+        "a": 255
+      },
+      "url": "/supportedVersions/fabric/1.20.4.json",
+      "sha1": "edb46daf563b9e8bcee0b7165012e913d90b8b2c"
+    },
+    {
+      "version": "1.19.4",
+      "color": {
+        "r": 105,
+        "g": 255,
+        "b": 110,
+        "a": 255
+      },
+      "url": "/supportedVersions/fabric/1.19.4.json",
+      "sha1": "3e9b325d4e7d2f3fe514bec73dde3a3c1f56031d"
+    },
+    {
+      "version": "1.18.2",
+      "color": {
+        "r": 217,
+        "g": 43,
+        "b": 75,
+        "a": 255
+      },
+      "url": "/supportedVersions/fabric/1.18.2.json",
+      "sha1": "5ec5b7d13f89abb62eb4a05d1f1b0d51fb3eeea0"
+    }
+  ]
+}
