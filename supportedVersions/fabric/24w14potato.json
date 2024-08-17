@@ -1,0 +1,13 @@
+{
+  "version": "1.20.6",
+  "modLoaderVersion": "0.15.11",
+  "notes": "May not work on Quest 3's",
+  "mods": [
+    {
+      "name" : "Vivecraft",
+      "version" : "1.0.0",
+      "url" : "https://github.com/game-engine-tests/VivecraftMod/releases/download/24w14potato-1/vivecraft-24w14potato-1.1.9-a1-fabric.jar",
+      "sha1": "251d36fa7996f233774b3e4a0b17be3ad08f35aa"
+    }
+  ]
+}

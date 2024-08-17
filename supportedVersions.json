@@ -9,7 +9,7 @@
         "a": 255
       },
       "url": "/supportedVersions/fabric/1.21.1.json",
-      "sha1": "c942c33323734aed25e5995ee5d5e715ab6c46f2"
+      "sha1": "850899dc392d2a42a3d5c2c97479eaa52d897b25"
     },
     {
       "version": "1.20.6",
@@ -20,7 +20,18 @@
         "a": 255
       },
       "url": "/supportedVersions/fabric/1.20.6.json",
-      "sha1": "b84181bce90588d09f136e22e1633b016bbda124"
+      "sha1": "ad6efe99481656a27baef47c467cb1939d05a1bd"
+    },
+    {
+      "version": "24w14potato",
+      "color": {
+        "r": 255,
+        "g": 220,
+        "b": 94,
+        "a": 255
+      },
+      "url": "/supportedVersions/fabric/24w14potato.json",
+      "sha1": "c7f1bcb515526aacd4f3b58fd772f24d895afae7"
     },
     {
       "version": "1.20.4",
@@ -31,7 +42,7 @@
         "a": 255
       },
       "url": "/supportedVersions/fabric/1.20.4.json",
-      "sha1": "edb46daf563b9e8bcee0b7165012e913d90b8b2c"
+      "sha1": "be28412b8039a9a83186dcdb255566f72d248eb8"
     },
     {
       "version": "1.19.4",
@@ -42,7 +53,8 @@
         "a": 255
       },
       "url": "/supportedVersions/fabric/1.19.4.json",
-      "sha1": "3e9b325d4e7d2f3fe514bec73dde3a3c1f56031d"
+      "sha1": "2c17083f3b4bbf7464f196fda0e1c010e8c075c7"
+      
     },
     {
       "version": "1.18.2",
@@ -53,7 +65,7 @@
         "a": 255
       },
       "url": "/supportedVersions/fabric/1.18.2.json",
-      "sha1": "5ec5b7d13f89abb62eb4a05d1f1b0d51fb3eeea0"
+      "sha1": "e1bbdedae170c2e502b2c0f5634326a977660170"
     }
   ]
 }
