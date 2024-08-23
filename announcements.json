@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Announcement title",
+    "description": "Announcement Description",
+    "author": "A Rabid Gang Of Cats",
+    "image": "https://i.imgur.com/Kn0cCS8.png",
+    "timestamp": "2024-08-23T05:59:38.5970005-05:00",
+    "color": null
+  },
+  {
+    "title": "Announcement title 2",
+    "description": "Announcement Description 2",
+    "author": "A Rabid Gang Of Cats",
+    "image": "https://i.imgur.com/Kn0cCS8.png",
+    "timestamp": "2024-08-23T16:30:28.6810593-05:00",
+    "color": {
+      "r": 105,
+      "g": 255,
+      "b": 110,
+      "a": 10
+    }
+  }
+]
