@@ -1,0 +1,10 @@
+[
+  {
+    "url": "/configs/defaults/optionsviveprofiles.txt",
+    "path": "/optionsviveprofiles.txt"
+  },
+  {
+    "url": "/configs/defaults/options.txt",
+    "path": "/options.txt"
+  }
+]

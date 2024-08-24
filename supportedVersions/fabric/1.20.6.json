@@ -2,11 +2,12 @@
   "version": "1.20.6",
   "modLoaderVersion": "0.15.11",
   "notes": "May not work on Quest 3's",
+  "configIndex": "/configs/defaults/configIndex.json",
   "mods": [
     {
-      "name" : "Vivecraft",
-      "version" : "1.0.0",
-      "url" : "https://github.com/game-engine-tests/VivecraftMod/releases/download/1.20.6-1/vivecraft-1.20.5-1.1.9-a1-fabric.jar",
+      "name": "Vivecraft",
+      "version": "1.0.0",
+      "url": "https://github.com/game-engine-tests/VivecraftMod/releases/download/1.20.6-1/vivecraft-1.20.5-1.1.9-a1-fabric.jar",
       "sha1": "28ae9c70d321655f75e8ca7a9184a9e286958660",
       "core": true
     }

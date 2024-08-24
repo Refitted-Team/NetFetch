@@ -2,11 +2,12 @@
   "version": "1.18.2",
   "modLoaderVersion": "0.15.11",
   "notes": "May not work",
+  "configIndex": "/configs/defaults/configIndex.json",
   "mods": [
     {
-      "name" : "Vivecraft",
-      "version" : "1.0.0",
-      "url" : "https://github.com/game-engine-tests/VivecraftMod/releases/download/1.18.2-1/vivecraft-1.18.2-1.1.3-fabric.jar",
+      "name": "Vivecraft",
+      "version": "1.0.0",
+      "url": "https://github.com/game-engine-tests/VivecraftMod/releases/download/1.18.2-1/vivecraft-1.18.2-1.1.3-fabric.jar",
       "sha1": "dde159866f76c03a12e600f49301d350864ca194",
       "core": true
     }
