@@ -1,0 +1,16 @@
+{
+    "version": "1.21.4",
+    "modLoaderVersion": "0.15.11",
+    "notes": "May not work on Quest 3's",
+    "configIndex": "/configs/defaults/configIndex.json",
+    "jdkDownload": "JDK-22;/resources/JDK22.7z",
+    "mods": [
+        {
+            "name": "Vivecraft",
+            "version": "1.0.0",
+            "url": "https://github.com/Refitted-Team/VivecraftMod/releases/download/1.21.4-1/vivecraft-1.21.4-1.1.14-b3-fabric.jar",
+            "sha1": "7f42459602addebfcfa3089b15e4f76918dc6eb5",
+            "core": true
+        }
+    ]
+}
