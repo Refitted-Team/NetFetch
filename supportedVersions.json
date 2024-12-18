@@ -26,9 +26,9 @@
     {
       "version": "1.21.1",
       "color": {
-        "r": 255,
-        "g": 220,
-        "b": 94,
+        "r": 105,
+        "g": 255,
+        "b": 110,
         "a": 255
       },
       "url": "/supportedVersions/fabric/1.21.1.json",
@@ -37,9 +37,9 @@
     {
       "version": "1.20.6",
       "color": {
-        "r": 255,
-        "g": 220,
-        "b": 94,
+        "r": 105,
+        "g": 255,
+        "b": 110,
         "a": 255
       },
       "url": "/supportedVersions/fabric/1.20.6.json",
@@ -116,9 +116,9 @@
     {
       "version": "1.21.1",
       "color": {
-        "r": 255,
-        "g": 220,
-        "b": 94,
+        "r": 105,
+        "g": 255,
+        "b": 110,
         "a": 255
       },
       "url": "/supportedVersions/quilt/1.21.1.json",
@@ -127,9 +127,9 @@
     {
       "version": "1.20.6",
       "color": {
-        "r": 255,
-        "g": 220,
-        "b": 94,
+        "r": 105,
+        "g": 255,
+        "b": 110,
         "a": 255
       },
       "url": "/supportedVersions/quilt/1.20.6.json",
@@ -177,6 +177,142 @@
         "a": 255
       },
       "url": "/supportedVersions/quilt/1.18.2.json",
+      "sha1": "059c725dedbd211c9e221434b7a59c88200bf36d"
+    }
+  ],
+  "neoForge": [
+    {
+      "version": "1.21.4",
+      "color": {
+        "r": 255,
+        "g": 220,
+        "b": 94,
+        "a": 255
+      },
+      "url": "/supportedVersions/neoForge/1.21.4.json",
+      "sha1": "b510b25064f7a8d616e474d024adcb485b848db0"
+    },
+    {
+      "version": "1.21.3",
+      "color": {
+        "r": 255,
+        "g": 220,
+        "b": 94,
+        "a": 255
+      },
+      "url": "/supportedVersions/neoForge/1.21.3.json",
+      "sha1": "7fd6706905c2527bdaab493147656bd15456d25f"
+    },
+    {
+      "version": "1.21.1",
+      "color": {
+        "r": 255,
+        "g": 220,
+        "b": 94,
+        "a": 255
+      },
+      "url": "/supportedVersions/neoForge/1.21.1.json",
+      "sha1": "2feece141ca5ff52e964554047fd7fcd60420110"
+    },
+    {
+      "version": "1.20.6",
+      "color": {
+        "r": 255,
+        "g": 220,
+        "b": 94,
+        "a": 255
+      },
+      "url": "/supportedVersions/neoForge/1.20.6.json",
+      "sha1": "77bd95a96e17ca5da733b999e06f07bd2470187d"
+    },
+    {
+      "version": "1.20.4",
+      "color": {
+        "r": 255,
+        "g": 220,
+        "b": 94,
+        "a": 255
+      },
+      "url": "/supportedVersions/neoForge/1.20.4.json",
+      "sha1": "3e8ea31e0da3f8878b94abc339d9d3b85d2ba5ba"
+    }
+  ],
+  "forge": [
+    {
+      "version": "1.21.4",
+      "color": {
+        "r": 255,
+        "g": 220,
+        "b": 94,
+        "a": 255
+      },
+      "url": "/supportedVersions/forge/1.21.4.json",
+      "sha1": "075c074d500ecf96e44b4616fa59d8dec4864528"
+    },
+    {
+      "version": "1.21.3",
+      "color": {
+        "r": 255,
+        "g": 220,
+        "b": 94,
+        "a": 255
+      },
+      "url": "/supportedVersions/forge/1.21.3.json",
+      "sha1": "48cf5c972e076010e041a60c54ec3712495c1d83"
+    },
+    {
+      "version": "1.21.1",
+      "color": {
+        "r": 255,
+        "g": 220,
+        "b": 94,
+        "a": 255
+      },
+      "url": "/supportedVersions/forge/1.21.1.json",
+      "sha1": "aa248950241f95ffa172093c83b0a2983bfe2892"
+    },
+    {
+      "version": "1.20.6",
+      "color": {
+        "r": 255,
+        "g": 220,
+        "b": 94,
+        "a": 255
+      },
+      "url": "/supportedVersions/forge/1.20.6.json",
+      "sha1": "c32c29f54a73070d9ac4f9cf6aff1fb57e9aa829"
+    },
+    {
+      "version": "1.20.4",
+      "color": {
+        "r": 255,
+        "g": 220,
+        "b": 94,
+        "a": 255
+      },
+      "url": "/supportedVersions/forge/1.20.4.json",
+      "sha1": "6478879d2e822c1c02ae33f213dd4e0e65c14c40"
+    },
+    {
+      "version": "1.19.4",
+      "color": {
+        "r": 255,
+        "g": 220,
+        "b": 94,
+        "a": 255
+      },
+      "url": "/supportedVersions/forge/1.19.4.json",
+      "sha1": "b84f5f065c5864520f615730f071af4c16b8714a"
+    },
+    {
+      "version": "1.18.2",
+      "color": {
+        "r": 217,
+        "g": 43,
+        "b": 75,
+        "a": 255
+      },
+      "url": "/supportedVersions/forge/1.18.2.json",
       "sha1": "059c725dedbd211c9e221434b7a59c88200bf36d"
     }
   ]
