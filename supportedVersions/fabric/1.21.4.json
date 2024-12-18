@@ -1,7 +1,7 @@
 {
     "version": "1.21.4",
     "modLoaderVersion": "0.15.11",
-    "notes": "May not work on Quest 3's",
+    "notes": "Untested! Please be aware of bugs! (Scary)",
     "configIndex": "/configs/defaults/configIndex.json",
     "jdkDownload": "JDK-22;/resources/JDK22.7z",
     "mods": [

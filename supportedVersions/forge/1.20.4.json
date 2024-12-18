@@ -1,0 +1,16 @@
+{
+  "version": "1.20.4",
+  "modLoaderVersion": "1.20.4-49.1.13",
+  "notes": "Forge is currently experimental",
+  "configIndex": "/configs/defaults/configIndex.json",
+  "jdkDownload": "JDK-22;/resources/JDK22.7z",
+  "mods": [
+    {
+      "name": "Vivecraft",
+      "version": "1.0.0",
+      "url": "https://github.com/game-engine-tests/VivecraftMod/releases/download/1.20.4-1/vivecraft-1.20.4-1.1.9-forge.jar",
+      "sha1": "64ffb42a182399e2d354da3af7aea75f9568b76a",
+      "core": true
+    }
+  ]
+}

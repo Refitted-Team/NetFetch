@@ -1,0 +1,16 @@
+{
+  "version": "1.20.4",
+  "modLoaderVersion": "20.4.238",
+  "notes": "NeoForge is currently experimental.",
+  "configIndex": "/configs/defaults/configIndex.json",
+  "jdkDownload": "JDK-22;/resources/JDK22.7z",
+  "mods": [
+    {
+      "name": "Vivecraft",
+      "version": "1.0.0",
+      "url": "https://github.com/game-engine-tests/VivecraftMod/releases/download/1.20.4-1/vivecraft-1.20.4-1.1.9-neoforge.jar",
+      "sha1": "c496a16884970a7f00581c67d8bc05339e802b56",
+      "core": true
+    }
+  ]
+}

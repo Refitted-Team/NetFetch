@@ -1,7 +1,7 @@
 {
   "version": "1.19.4",
   "modLoaderVersion": "0.15.11",
-  "notes": "Stable",
+  "notes": "",
   "configIndex": "/configs/defaults/configIndex.json",
   "jdkDownload": "JDK-22;/resources/JDK22.7z",
   "mods": [

@@ -1,0 +1,16 @@
+{
+    "version": "1.21.4",
+    "modLoaderVersion": "21.4.30-beta",
+    "notes": "NeoForge is currently experimental. Untested! Please be aware of bugs! (Scary)",
+    "configIndex": "/configs/defaults/configIndex.json",
+    "jdkDownload": "JDK-22;/resources/JDK22.7z",
+    "mods": [
+        {
+            "name": "Vivecraft",
+            "version": "1.0.0",
+            "url": "https://github.com/Refitted-Team/VivecraftMod/releases/download/1.21.4-1/vivecraft-1.21.4-1.1.14-b3-neoforge.jar",
+            "sha1": "6412c1b62447e7cdeffa25048e94cd2e09caabe0",
+            "core": true
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "version": "24w14potato",
     "modLoaderVersion": "0.27.1",
-    "notes": "May not work on Quest 3's",
+    "notes": "Snapshots are unstable, please be aware of bugs!",
     "configIndex": "/configs/defaults/configIndex.json",
     "jdkDownload": "JDK-22;/resources/JDK22.7z",
     "mods": [
