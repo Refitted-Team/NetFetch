@@ -1,0 +1,16 @@
+{
+    "version": "1.20.1",
+    "modLoaderVersion": "0.15.11",
+    "notes": "1.20.1 is likely broken!!!",
+    "configIndex": "/configs/defaults/configIndex.json",
+    "jdkDownload": "JDK-22;/resources/JDK22.7z",
+    "mods": [
+        {
+            "name": "Vivecraft",
+            "version": "1.0.0",
+            "url": "https://github.com/game-engine-tests/VivecraftMod/releases/download/1.20.1-1/vivecraft-1.20.1-1.1.14-fabric.jar",
+            "sha1": "96b493f01e4d355db5f4bf7006a8ab5cddfc52f9",
+            "core": true
+        }
+    ]
+}
