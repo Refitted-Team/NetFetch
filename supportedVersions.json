@@ -10,7 +10,7 @@
         "a": 255
       },
       "url": "/supportedVersions/fabric/1.21.4.json",
-      "sha1": "b510b25064f7a8d616e474d024adcb485b848db0"
+      "sha1": "72f285507af92f04d69be5cdd22e5e7dcc3f85a6"
     },
     {
       "version": "1.21.3",
@@ -21,7 +21,7 @@
         "a": 255
       },
       "url": "/supportedVersions/fabric/1.21.3.json",
-      "sha1": "7fd6706905c2527bdaab493147656bd15456d25f"
+      "sha1": "4a5409443e1bd7b73aaeb982aeab753ae29d206c"
     },
     {
       "version": "1.21.1",
@@ -32,7 +32,7 @@
         "a": 255
       },
       "url": "/supportedVersions/fabric/1.21.1.json",
-      "sha1": "2feece141ca5ff52e964554047fd7fcd60420110"
+      "sha1": "85019a31477d1777a6a1d7267262ef46eb1cf685"
     },
     {
       "version": "1.20.6",
@@ -43,7 +43,7 @@
         "a": 255
       },
       "url": "/supportedVersions/fabric/1.20.6.json",
-      "sha1": "77bd95a96e17ca5da733b999e06f07bd2470187d"
+      "sha1": "8ae6e424212ea0d847643e02e5b543b5094546ad"
     },
     {
       "version": "24w14potato",
@@ -54,7 +54,7 @@
         "a": 255
       },
       "url": "/supportedVersions/fabric/24w14potato.json",
-      "sha1": "d3b813c13946d672653d281496514a8a2bc7f10a"
+      "sha1": "fc1727490079623591239bfafaa104045810e44a"
     },
     {
       "version": "1.20.4",
@@ -65,7 +65,18 @@
         "a": 255
       },
       "url": "/supportedVersions/fabric/1.20.4.json",
-      "sha1": "3e8ea31e0da3f8878b94abc339d9d3b85d2ba5ba"
+      "sha1": "ac33dcd158cf110616b7da074eeb7541767dcb3e"
+    },
+    {
+      "version": "1.20.1",
+      "color": {
+        "r": 217,
+        "g": 43,
+        "b": 75,
+        "a": 255
+      },
+      "url": "/supportedVersions/fabric/1.20.1.json",
+      "sha1": "c7e5b5d5a48061c0d0eebaddd110660a619b3cdc"
     },
     {
       "version": "1.19.4",
@@ -76,7 +87,7 @@
         "a": 255
       },
       "url": "/supportedVersions/fabric/1.19.4.json",
-      "sha1": "7e06584df5f7c427b63a75a7c7358c37f91e8101"
+      "sha1": "8edf4af1bcb87efa159c62fb86270dcd7b518056"
     },
     {
       "version": "1.18.2",
@@ -87,7 +98,7 @@
         "a": 255
       },
       "url": "/supportedVersions/fabric/1.18.2.json",
-      "sha1": "01db5362930b9b7b08c6f311f580357ecb610acd"
+      "sha1": "66106b878675b8e354caff6dceae0f8c97984bca"
     }
   ],
   "quilt": [
@@ -100,7 +111,7 @@
         "a": 255
       },
       "url": "/supportedVersions/quilt/1.21.4.json",
-      "sha1": "075c074d500ecf96e44b4616fa59d8dec4864528"
+      "sha1": "048d3e0bc51cbf34b8777558479d9a70f9235c5f"
     },
     {
       "version": "1.21.3",
@@ -111,7 +122,7 @@
         "a": 255
       },
       "url": "/supportedVersions/quilt/1.21.3.json",
-      "sha1": "48cf5c972e076010e041a60c54ec3712495c1d83"
+      "sha1": "53148bfaa5771f10df0b90dd9c197af027a9f923"
     },
     {
       "version": "1.21.1",
@@ -122,7 +133,7 @@
         "a": 255
       },
       "url": "/supportedVersions/quilt/1.21.1.json",
-      "sha1": "aa248950241f95ffa172093c83b0a2983bfe2892"
+      "sha1": "26a5684d86054f41db7382d43af86236bc963260"
     },
     {
       "version": "1.20.6",
@@ -133,7 +144,7 @@
         "a": 255
       },
       "url": "/supportedVersions/quilt/1.20.6.json",
-      "sha1": "c32c29f54a73070d9ac4f9cf6aff1fb57e9aa829"
+      "sha1": "c4ae86d05043b90661484e45178f91174496cd27"
     },
     {
       "version": "24w14potato",
@@ -144,7 +155,7 @@
         "a": 255
       },
       "url": "/supportedVersions/quilt/24w14potato.json",
-      "sha1": "c6a5b84ee5fb35487b731cb4ffa3e3e3e9efff35"
+      "sha1": "e05e67eb6d13cd217e8fc15e3bce61f9da9c6cef"
     },
     {
       "version": "1.20.4",
@@ -155,7 +166,7 @@
         "a": 255
       },
       "url": "/supportedVersions/quilt/1.20.4.json",
-      "sha1": "6478879d2e822c1c02ae33f213dd4e0e65c14c40"
+      "sha1": "2119820b263d6dfba3e3d8b57179d889d0738b3a"
     },
     {
       "version": "1.19.4",
@@ -166,7 +177,7 @@
         "a": 255
       },
       "url": "/supportedVersions/quilt/1.19.4.json",
-      "sha1": "b84f5f065c5864520f615730f071af4c16b8714a"
+      "sha1": "9eeee823f0281df9186874dc65ae65eb20e65c2f"
     },
     {
       "version": "1.18.2",
@@ -177,7 +188,7 @@
         "a": 255
       },
       "url": "/supportedVersions/quilt/1.18.2.json",
-      "sha1": "059c725dedbd211c9e221434b7a59c88200bf36d"
+      "sha1": "deb10213031cfdf36d39e70bba97f8a2cee14e46"
     }
   ],
   "neoForge": [
@@ -190,7 +201,7 @@
         "a": 255
       },
       "url": "/supportedVersions/neoForge/1.21.4.json",
-      "sha1": "b510b25064f7a8d616e474d024adcb485b848db0"
+      "sha1": "6cf628673d2d27881a64270f1c090b261ea90196"
     },
     {
       "version": "1.21.3",
@@ -201,7 +212,7 @@
         "a": 255
       },
       "url": "/supportedVersions/neoForge/1.21.3.json",
-      "sha1": "7fd6706905c2527bdaab493147656bd15456d25f"
+      "sha1": "98daf95569c856bf60a203c23e3370a85c516a6b"
     },
     {
       "version": "1.21.1",
@@ -212,7 +223,7 @@
         "a": 255
       },
       "url": "/supportedVersions/neoForge/1.21.1.json",
-      "sha1": "2feece141ca5ff52e964554047fd7fcd60420110"
+      "sha1": "0b4bf549c2189e5af3e17137f1255ef50f35db74"
     },
     {
       "version": "1.20.6",
@@ -223,7 +234,7 @@
         "a": 255
       },
       "url": "/supportedVersions/neoForge/1.20.6.json",
-      "sha1": "77bd95a96e17ca5da733b999e06f07bd2470187d"
+      "sha1": "06a0285db432f1b369099573a5fddc16fd55a7bb"
     },
     {
       "version": "1.20.4",
@@ -234,7 +245,7 @@
         "a": 255
       },
       "url": "/supportedVersions/neoForge/1.20.4.json",
-      "sha1": "3e8ea31e0da3f8878b94abc339d9d3b85d2ba5ba"
+      "sha1": "8cde4553fe2492feaa9c2c0945a3ac13e9351a60"
     }
   ],
   "forge": [
@@ -247,7 +258,7 @@
         "a": 255
       },
       "url": "/supportedVersions/forge/1.21.4.json",
-      "sha1": "075c074d500ecf96e44b4616fa59d8dec4864528"
+      "sha1": "61fe3c020a9729d50832bf8f8f1c5d0fb375beeb"
     },
     {
       "version": "1.21.3",
@@ -258,7 +269,7 @@
         "a": 255
       },
       "url": "/supportedVersions/forge/1.21.3.json",
-      "sha1": "48cf5c972e076010e041a60c54ec3712495c1d83"
+      "sha1": "11c013585454e740d434d46856a82f5483e0234e"
     },
     {
       "version": "1.21.1",
@@ -269,7 +280,7 @@
         "a": 255
       },
       "url": "/supportedVersions/forge/1.21.1.json",
-      "sha1": "aa248950241f95ffa172093c83b0a2983bfe2892"
+      "sha1": "b1f595533d5df00605d45be341d1fa6636469a4f"
     },
     {
       "version": "1.20.6",
@@ -280,7 +291,7 @@
         "a": 255
       },
       "url": "/supportedVersions/forge/1.20.6.json",
-      "sha1": "c32c29f54a73070d9ac4f9cf6aff1fb57e9aa829"
+      "sha1": "482bc445d37197b98018bbc3986d0c0e705e8526"
     },
     {
       "version": "1.20.4",
@@ -291,7 +302,18 @@
         "a": 255
       },
       "url": "/supportedVersions/forge/1.20.4.json",
-      "sha1": "6478879d2e822c1c02ae33f213dd4e0e65c14c40"
+      "sha1": "8e362d414927da59d30e5e156f53fe58fe6d0e16"
+    },
+    {
+      "version": "1.20.1",
+      "color": {
+        "r": 217,
+        "g": 43,
+        "b": 75,
+        "a": 255
+      },
+      "url": "/supportedVersions/forge/1.20.1.json",
+      "sha1": "de9aaf6fbe943a069b14068cbdfb702b3875685c"
     },
     {
       "version": "1.19.4",
@@ -302,7 +324,7 @@
         "a": 255
       },
       "url": "/supportedVersions/forge/1.19.4.json",
-      "sha1": "b84f5f065c5864520f615730f071af4c16b8714a"
+      "sha1": "e2f223f34863c9458399d424f508ffb019582095"
     },
     {
       "version": "1.18.2",
@@ -313,7 +335,7 @@
         "a": 255
       },
       "url": "/supportedVersions/forge/1.18.2.json",
-      "sha1": "059c725dedbd211c9e221434b7a59c88200bf36d"
+      "sha1": "0618e974772562b64a750799a8989061673b9a27"
     }
   ]
 }
